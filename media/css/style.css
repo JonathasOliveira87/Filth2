@@ -14,6 +14,8 @@ body {
     overflow: hidden;
 }
 
+
+
 a {
     text-decoration: none; /* Remove a sublinhado do link */
     color: #1e90ff; /* Define a cor do link (azul) */
@@ -270,7 +272,7 @@ h3 img {
 
 
 .divContato .box {
-    width: calc(33.33% - 20px); /* 33.33% width with 20px margin between boxes */
+    width: calc(50% - 20px); 
     background-color: #242b33;
     color: #fff;
     text-align: center;
