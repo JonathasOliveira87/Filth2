@@ -425,14 +425,14 @@ h3 img {
     .filthDiv {
         width: 80%;
         height: 35%;
-        top: 30%;
+        top: 20%;
     }
     
     #htDiv {
         color: #696969;
         width: 75%;
-        left: 2%;
-        top: 64%; 
+        left: 1.5%;
+        top: 55%; 
         padding: 10px;
         border: 0px solid #eaf0eb;
     }
