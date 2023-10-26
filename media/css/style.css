@@ -318,12 +318,6 @@ h3 img {
 /* Estilos para o menu de navegação em dispositivos móveis */
 @media screen and (max-width: 768px) {
 
-    /* Estilos para o corpo */
-    body {
-        background-color: #1657c0;
-    }
-
-
     .menu-toggle {
         display: block;
     }
@@ -390,6 +384,80 @@ h3 img {
     
     .box {
         width: 90%;
+    }
+
+    /* Estilize a div branca */
+    .whiteDiv {
+        width: 65%;
+        height: 80%;
+        left: 0%;
+    }
+
+    #bvDiv {
+        height: 30%;
+        min-width: 47%;
+        min-height: 300px;
+        position: absolute;
+        left: 50%;
+    }
+    
+
+    #bvDiv {
+        width: 40%;
+        height: 50%;
+    }
+
+    #bvDiv h1 {
+        font-size: 1.1em;
+    }
+
+    #bvDiv h2 {
+        font-size: .8em;
+    }
+
+    .tesouraDiv {
+        width: 80%;
+        height: 80%;
+        min-height: 0px;
+        position: absolute;
+        top: 10%;
+        padding-top: 80px;
+    }
+
+    .filthDiv {
+        width: 80%;
+        height: 35%;
+        top: 30%;
+    }
+    
+    #htDiv {
+        color: #696969;
+        width: 75%;
+        left: 2%;
+        top: 68%; 
+        padding: 10px;
+        border: 0px solid #eaf0eb;
+    }
+    
+    
+    #htDiv h1 {
+        font-size: 1.2em;
+    }
+    
+    #htDiv p {
+        font-size: 1.5vw;
+    }
+
+    .divContato {
+        padding-top: 125px;
+    }
+    
+    .divContato .box {
+        width: 98%;
+        background-color: #242b33;
+        color: #fff;
+        text-align: center;
+        margin: 1%;
     }
 }
 
