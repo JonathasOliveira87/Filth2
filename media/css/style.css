@@ -432,7 +432,7 @@ h3 img {
         color: #696969;
         width: 75%;
         left: 2%;
-        top: 68%; 
+        top: 64%; 
         padding: 10px;
         border: 0px solid #eaf0eb;
     }
@@ -443,7 +443,7 @@ h3 img {
     }
     
     #htDiv p {
-        font-size: 1.5vw;
+        font-size: 0.8em;
     }
 
     .divContato {
